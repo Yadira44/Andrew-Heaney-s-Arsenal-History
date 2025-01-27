@@ -11,5 +11,5 @@ Visit the stat tables [Heaney-Pitch-Data] (https://myunt-my.sharepoint.com/:x:/r
 Visit the Doc [Heaney-on-Paper] (https://docs.google.com/document/d/1w-9msi6B9xFOuTlveo2CfcC9YxQAkcBSvogI7Lb2zh4/edit?usp=sharing)
 
 ### How to Use
-## An interactive website showcasing the evolution of Andrew Heaney's pitching arsenal from 2014 to 2024.
+- # Website: An interactive website showcasing the evolution of Andrew Heaney's pitching arsenal from 2014 to 2024.
 Visit the interactive website [Heaney-Arsenal-history ](https://readymag.website/u2417743828/5237139/)
